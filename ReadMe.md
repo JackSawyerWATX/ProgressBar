@@ -1,0 +1,1 @@
+A progress status that can be manipulated to do many differentthings in the terminal.
